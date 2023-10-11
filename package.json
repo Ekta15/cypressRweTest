@@ -1,0 +1,17 @@
+{
+  "name": "cypressrwetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:countlink":"npx cypress run --spec cypress/e2e/countlink.cy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ekta Aneja",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.0",
+    "cypress-mochawesome-reporter": "^3.6.1"
+  }
+}
+
