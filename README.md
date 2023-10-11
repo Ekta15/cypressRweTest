@@ -23,7 +23,7 @@ To confirm you have the correct versions, type these commands into your terminal
 npm --version
 node --version
 
-2)Clone: 
+2)Clone: https://github.com/Ekta15/cypressRweTest.git
 Open the project in your favorite editor.
 Launch a Terminal in your editor (usually found in the bottom right corner).
 Install necessary dependencies by running:
